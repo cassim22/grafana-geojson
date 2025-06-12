@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "OLTs",
+"features": [
+{ "type": "Feature", "properties": { "Name": "NAVEGA", "description": null }, "geometry": { "type": "Point", "coordinates": [ -49.3857465, -16.661827, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "SUPORTWEB", "description": null }, "geometry": { "type": "Point", "coordinates": [ -49.325732, -16.738722, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "GRAN ROYALE", "description": null }, "geometry": { "type": "Point", "coordinates": [ -49.236493, -16.682389, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "HEY ELDORADO", "description": null }, "geometry": { "type": "Point", "coordinates": [ -49.4065203, -16.6888128, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "HEY VERO CRUZ", "description": null }, "geometry": { "type": "Point", "coordinates": [ -49.3863252, -16.6655365, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "TORRE BERTIN", "description": null }, "geometry": { "type": "Point", "coordinates": [ -49.4131901, -16.7003859, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "GUAPO BURITIS", "description": null }, "geometry": { "type": "Point", "coordinates": [ -49.5419294, -16.82491, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "UPNET CARIBE", "description": "CHAVE: GLOBAL" }, "geometry": { "type": "Point", "coordinates": [ -49.2592383, -16.7668767, 0.0 ] } }
+]
+}

@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "Terceiros",
+"features": [
+{ "type": "Feature", "properties": { "Name": "CAMPINORTE (CONEXÃO DIGITAL/OPYT)", "description": null }, "geometry": { "type": "Point", "coordinates": [ -49.1545814, -14.3123956, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "CINE (BRDIGITAL)", "description": null }, "geometry": { "type": "Point", "coordinates": [ -49.1069881, -17.7351637, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "MAURICIO (UNE)", "description": null }, "geometry": { "type": "Point", "coordinates": [ -49.074263, -17.3811064, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "CONTAINER (BRDIGITAL)", "description": null }, "geometry": { "type": "Point", "coordinates": [ -49.2686972, -18.052864, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "ANTARES (G8)", "description": null }, "geometry": { "type": "Point", "coordinates": [ -49.216396, -18.4204819, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "CXX (OPYT)", "description": null }, "geometry": { "type": "Point", "coordinates": [ -49.4726641, -18.4949988, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "QUIRI (OPYT)", "description": null }, "geometry": { "type": "Point", "coordinates": [ -50.4508122, -18.4459182, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "RVD (G8)", "description": null }, "geometry": { "type": "Point", "coordinates": [ -50.8875654, -17.793238, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "POP CASA DA PESCA", "description": "Endereço: Custódio P. Venancio, n 333, Ventro, Santa Helena de Goiás CEP: 75920-000" }, "geometry": { "type": "Point", "coordinates": [ -50.5989503, -17.8093363, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "MAU (UNE)", "description": null }, "geometry": { "type": "Point", "coordinates": [ -50.3427344, -17.9872519, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "VCT (UNE)", "description": null }, "geometry": { "type": "Point", "coordinates": [ -49.8045477, -17.7338982, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "ANICUNS (G8)", "description": null }, "geometry": { "type": "Point", "coordinates": [ -49.9518394, -16.4645057, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "TRIN (OPYT)", "description": null }, "geometry": { "type": "Point", "coordinates": [ -49.4841005, -16.6579802, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "PUC (G8)", "description": null }, "geometry": { "type": "Point", "coordinates": [ -49.3436087, -16.6626885, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "CIDADE EMPRESARIAL (UNE)", "description": null }, "geometry": { "type": "Point", "coordinates": [ -49.3042452, -16.7506152, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "GIN (UNE)", "description": null }, "geometry": { "type": "Point", "coordinates": [ -49.3910895, -16.5622991, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "ESTRELA DO NORTE (OPYT)", "description": null }, "geometry": { "type": "Point", "coordinates": [ -49.0690337, -13.8660125, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "CONTAINER (BRDIGITAL)", "description": null }, "geometry": { "type": "Point", "coordinates": [ -49.0882499, -14.0232053, 0.0 ] } }
+]
+}

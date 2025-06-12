@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"name": "CONEXÃO CERRADO",
+"features": [
+{ "type": "Feature", "properties": { "Name": "TORRE BIA 40M", "description": null, "Descri____o": "TORRE BIA 40M" }, "geometry": { "type": "Point", "coordinates": [ -49.251411, -17.8661384, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "LE QUARDIER", "description": "11 Andar Sala 1101 chave Ademir ou Lucas Alcantara ", "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -47.885184, -15.7906394, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "TRADE CENTER ", "description": "10 Andar Sala 1006 chave com Ademir ou Lucas Alcantara ", "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -47.8830909, -15.7883053, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "PÁTIO BRASIL", "description": null, "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -47.8922535, -15.7962546, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "VICENTE PIRES", "description": null, "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -48.0507648, -15.7922727, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "TAQUARI", "description": null, "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -47.8707235, -15.7122581, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "BONAPARTE", "description": null, "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -47.8891826, -15.7951041, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "LAGO SUL", "description": null, "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -47.8233458, -15.8717061, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "TAGUATINGA", "description": null, "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -48.0634129, -15.8205848, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "AGUAS CLARAS ", "description": null, "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -48.0323032, -15.8472234, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "GUARA", "description": null, "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -47.9669742, -15.8394578, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "GAMA", "description": null, "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -48.0658388, -16.0185556, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "GAMA CELERIX", "description": null, "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -48.061691, -16.0197284, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "NOVO GAMA", "description": null, "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -48.0313449, -16.0511028, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "CÉU AZUL", "description": null, "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -48.0087083, -16.0601101, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "PARQUE DAS ARVORES", "description": null, "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -47.9888263, -16.0788969, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "PACAEMBU", "description": null, "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -48.0180447, -16.0870029, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "DC IPANEMA", "description": null, "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -47.9871926, -16.0898155, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "TOTAL VILLE", "description": null, "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -47.9833932, -16.0273117, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "POLO JK", "description": null, "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -47.9732025, -16.0287073, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "ETAPA C", "description": null, "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -47.9742219, -16.0795456, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "GREEN PARK", "description": null, "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -47.9647411, -16.0528863, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "MARAJO", "description": null, "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -47.9706775, -16.1128824, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "JARDIM INGA", "description": null, "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -47.9510794, -16.1516036, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "LUZIÂNIA POSTO", "description": null, "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -47.9421956, -16.2380402, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "LUZIÂNIA", "description": null, "Descri____o": null }, "geometry": { "type": "Point", "coordinates": [ -47.903453, -16.24261, 0.0 ] } }
+]
+}

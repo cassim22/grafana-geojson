@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BKB",
+"features": [
+{ "type": "Feature", "properties": { "Name": "TRINDADE CENTRO" }, "geometry": { "type": "Point", "coordinates": [ -49.484129, -16.657971, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "CAMPINORT" }, "geometry": { "type": "Point", "coordinates": [ -49.1545703, -14.3123904, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "INACIOLANDIA" }, "geometry": { "type": "Point", "coordinates": [ -49.991093, -18.483557, 0.0 ] } }
+]
+}

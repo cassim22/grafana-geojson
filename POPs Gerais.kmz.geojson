@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "POPs Gerais.kmz",
+"features": [
+{ "type": "Feature", "properties": { "Name": "POP GRANJA" }, "geometry": { "type": "Point", "coordinates": [ -49.0281774, -17.7286303, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "DC MORRINHOS FAZENDA" }, "geometry": { "type": "Point", "coordinates": [ -49.064408, -17.7236581, 0.0 ] } }
+]
+}
